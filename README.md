@@ -2,6 +2,11 @@
 
 i like making scripts for roblox :)
 
+here is my most popular script
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Iratethisname10/Iy-plus/main/main/NewMain.lua"))()
+```
+
 ## some Languages i know 
 
 <p float="left">
