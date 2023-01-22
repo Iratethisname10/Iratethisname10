@@ -6,9 +6,6 @@ i like making scripts for roblox :)
 
 <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="70"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" width="70"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" width="70"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="70"/>
 </p>
 
