@@ -1,7 +1,6 @@
-### hello :D
-### im ash, a developer from singapore
+### Hi, im ash, a developer from singapore
 
-### i like to make:
+### I like to make:
 - roblox scripts
 - website extentions
 - bots for websites
