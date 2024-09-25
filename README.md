@@ -1,11 +1,11 @@
-# hello :D
+### hello :D
 
-Hii, im ash, a singaporean developer who like to make:
+### Hii, im ash, a singaporean developer who like to make:
 - roblox scripts
 - website extentions
 - bots for websites
 
-Languages i know:
+### Languages i know:
 - luau
 - javascript
 - python
