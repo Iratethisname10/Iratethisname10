@@ -1,5 +1,14 @@
 # hello :D
 
-hi im ash, im from singapore, i like to make scripts and other stuff for roblox :D
+Hii, im ash, a singaporean developer who like to make:
+- roblox scripts
+- website extentions
+- bots for websites
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Iratethisname10&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&border_radius=10&hide=css&custom_title=My%20Most%20Used%20Languages)
+Languages i know:
+- luau
+- javascript
+- python
+- go
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iratethisname10&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
